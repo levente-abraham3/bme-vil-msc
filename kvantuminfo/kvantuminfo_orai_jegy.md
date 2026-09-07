@@ -1,44 +1,35 @@
-# Kvantuminformatika és -kommunikáció órai jegyzetek
+# Kvantuminformatika és -kommunikáció órai jegyzet
 # Adminisztráció
-Dr. Imre Sándor
 
-- imre@hit.bme.hu
+|Oktatók|Email|Terem|
+|---|---|---|
+|Dr. Imre Sándor|<imre@hit.bme.hu> <br> <imre.sandor@vik.bme.hu>|IB122|
+|Dr. Bacsárdo László|bacsardi@hit.bme.hu|IB121|
 
-- IB122
+**Tantárgy**: <https://www.mcl.hu/education/vihima18/>
 
-Dr. Bacsárdo László
+**Kérdés esetén**: <kvantumkurzus@mcl.hu> (Hárman olvassák ezt az emailt)
 
-- bacsardi@hit.bme.hu
+**Segédanyag**:
+- Moodle előadás diák (nem elegendő a teljes megértéshez)
+- Könyvek; Sándor Imre: Quantum Computing and Communications
 
-- IB121
+**Gyakorlat**: **Páros** hetteken
 
-Kommunikáció: kvantumkurzus@mcl.hu, Teams és moodle
+**Házi feladat**: November közepén beadás moodleban
 
-Segédanyag: Moodle PPT, de nem elegendő a teljes megértéshez.
+**Zárthelyi dolgozat**: 2026 December 7
+- Pótlás elve: *"Dupla vagy semmi alapon"*
 
-Könyvek; Sándor Imre: Quantum Computing and Communications.
+**Vizsga**: szóbeli, 2 tétel
+- Tudni kell hogy egy algoritum/protokol mire való, de nem kell bemagolni a pontos levezetéseket.
 
-**Páros** hetteken gyakorlat
-
-HF: 1db, november közepén beadás a moodleban
-
-ZH: december 7
-
-PZH: "Dupla vagy semmi alapon"
-
-Vizsga: szóbeli, 2 tétel
-
-Tudni kell hogy egy algoritum/protokol mire való, de nem kell bemagolni.
-
-MI általános használata: [link]
+**MI általános használata**: [link]
 
 Van 2 kredites kvantum programozás tantárgy
 
-**TÚRÓRUDIK száma**: (itt kell vezetni hogy mennyi van a félévben)
 
-Verseny feladat: EA1 végén
 
-Nyitott feladat keresés: Találni olyan feladatot ami Klasszikus és Kvantum között különbséget mutat.
 
 ---
 # 1. Előadás - Bevezetés (2026-09-07)
@@ -54,4 +45,20 @@ RSA: Rivest–Shamir–Adleman
 
 SLide 65: biztosan elétük-e azt a egységet (=transzisztor kapút) ami már jól és megbízhatóan skálázható?
 
+
+# Verseny feladat
+
+EA1 végén
+
+Nyitott feladat keresés: Találni olyan feladatot ami Klasszikus és Kvantum között különbséget mutat.
+
+---
+
+# Túrórudi számláló
+
+A tantárgyban ha kérdezel vagy válaszolsz, akkor kaphatsz pontokat. Ezeket a pontokat "túrórudinak" hávják ezzen a tantárgyon. Évvégén bemondod hogy hány túrórudid van és a tanszék ad neked annyit amennyid van, ha kéred.
+
+|Dátum|Mennyi|Indok|
+|---|---|---|
+|2026.00.00|0|kérdeztem|
 
