@@ -45,6 +45,63 @@ RSA: Rivest–Shamir–Adleman
 
 SLide 65: biztosan elétük-e azt a egységet (=transzisztor kapút) ami már jól és megbízhatóan skálázható?
 
+# 2 Előadás - Kvantummechanikai posztulátumok és alkalmazásuk (2026-09-10)
+
+Ennek az órai anyaga benne szokott lenni a vizsgában, ne csak átpörgessük.
+
+Posztulátom != Axioma
+
+Különbség a mérnöki és fizika között
+
+1. posztulátom: $\Phi(r,t)$ hely és idő
+2. posztulátum: 
+
+klasszik vs kvantum informácio közötti különbség
+
+0 vagy 1  VS 0 és 1
+
+Dirac bevezette a dirac formalizmust 
+
+$$
+\braket{0|0}
+\bra{0} \ket{0}
+$$
+
+Hilbert tér: végtelen dimenzióu euklideszi tér
+
+Azért mert szeretnénk a bizonytalan álapotoknak hosszat rendelni/mérni.
+
+Plank állandó
+
+és redukált plank állandó jelölés
+
+Szuperpozició: egy időpillanatban egyszerre mindkét állapotban van.
+
+Hadamard kapú: superpocicióba hozzak egy kvantum álapotot
+
+Hadamart adjugált = önmaga
+
+HH=I
+
+Érdemes megjegyezni egyenletek:
+
+
+Hadamard ker 0 az a 45°ba elforgatott bázis. Itt bármelyuk állapotba billenhet
+
+justqlab folyamatosan forgat, nem a nullából indul
+
+Mérési posztulátum kapcsolatot teremt klaszikus és kvantum állapot között. Miután megméred, utána fixen tudod az állapotát
+
+Tenzor szorzás
+
+SZámolás
+
+## Kérdések:
+Mi az a hullám operátor
+
+Mi az a hermetikus?
+
+Mi az az unitér? és unitér transformáció
 
 # Verseny feladat
 
