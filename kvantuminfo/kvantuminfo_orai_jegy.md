@@ -44,17 +44,22 @@
 ---
 # 1. Előadás - Bevezetés (2026-09-07)
 
-Első ember akivel találkoztam: Roli
+## Fizikai korlátok és a kvantuminformatika születése 
+- **Moore-törvény telítődése**: A transzisztorok méretének csökkenésével a nanométeres tartomány alatt a klasszikus fizika törvényei már nem érvényesülnek maradéktalanul.
+- **Skálázhatósági kérdés (Slide 65)**: Elértük-e azt a megbízható alapegységet (transzisztorkaput), amely még hatékonyan skálázható klasszikus alapon.
+- **Moore-törvény 2.0 (Qubit skálázódás)**: A kvantumos hardverek exponenenciális qubit-növekedést mutatnak. <br> (pl. IBM fejlesztési útiterv: 2016 Canary – 5 qubit, 2021 Eagle – 127 qubit, 2022 Osprey – 433 qubit, 2023 Condor – 1121 qubit)
 
-Moore Törvény kezd telítödésbe futni a transistorok méretével.
+## Kriptográfia és a kvantumos áttörés
+- **Szimmetrikus titkosítás**: Ugyanazt a kulcsot használja mindkét fél; elméletileg abszolút biztonságos, de a kulcsmegosztás biztonságos csatornát igényel.
+- **Aszimmetrikus titkosítás (RSA)**: Rivest–Shamir–Adleman algoritmus. Nyilvános titkosító és titkos fejtőkulcsot használ, melyek két nagy prímszám szorzatán ($N = p \cdot q$) alapulnak. Feltörése a prímtényezős felbontáson múlik.
+- **Klasszikus vs. Kvantumos komplexitás**:
+  - Klasszikus számítógéppel egy 300 jegyű szám prímtényezős felbontása kb. **152 000 évig** tartana
+  - **Shor-algoritmus**: Kvantumszámítógépen $O(\log^3(N))$ időkomplexitással, mindössze kb. **1 másodperc** alatt képes feltörni az RSA-t.
 
-Nano méteres tartomány alatt már megváltozik a klaszikus fizika. Itt lép be a kvantuminformatika.
+## Fejlesztőkörnyezetek és nyelvek
+Használt keretrendszerek: **Qiskit**, **Cirq**, **Q#**, **OPENQASM 2.0**
 
-RSA: Rivest–Shamir–Adleman
-- Asymmetric Cryptography: It uses a pair of keys. A public key is used to encrypt the message, and a separate, private private key is used to decrypt it.
-
-SLide 65: biztosan elétük-e azt a egységet (=transzisztor kapút) ami már jól és megbízhatóan skálázható?
-
+---
 # 2 Előadás - Kvantuminformatika jelölésrendszere és posztulátumai (2026-09-10)
 
 Ennek az órai anyaga benne szokott lenni a vizsgában, ne csak átpörgessük.
@@ -123,7 +128,9 @@ Nyitott feladat keresés: Találni olyan feladatot ami Klasszikus és Kvantum k�
 
 # Túrórudi számláló
 
-A tantárgyban ha kérdezel vagy válaszolsz, akkor kaphatsz pontokat. Ezeket a pontokat "túrórudinak" hávják ezzen a tantárgyon. Évvégén bemondod hogy hány túrórudid van és a tanszék ad neked annyit amennyid van, ha kéred.
+A tantárgy során az órai aktivitásért (kérdésekre válaszolásért vagy jó kérdések feltevéséért) pontok gyűjthetők, amiket ezen a tárgyon **"túrórudinak"** neveznek. A félév végén a tanszék beváltja a gyűjtött pontokat.
+
+**Ábrahám Levente táblázata**:
 
 |Dátum|Mennyi|Indok|
 |---|---|---|
