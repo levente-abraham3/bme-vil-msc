@@ -1,46 +1,68 @@
 # Sztochasztika órai jegyzet
 
-# Adminisztráció
-Tóth Imre Péter
+## Adminisztráció és Elérhetőségek
 
-+36 20 537 2256
+- **Tárgy neve és kódja**: Felsőbb Matematika Villamosmérnököknek - Sztochasztika (BMETE90MX80)
+- **Előadó**: Tóth Imre Péter
+- **Előadások**:
+  - Kedd 10:15–12:00 (IB025 terem)
+  - Szerda 8:15–10:00 (IB027 terem)
+- **Iroda**: H épület 508
+- **Fogadóóra**: Kedd 12:00–14:00
+- **Telefon**: +36 20 537 2256
+- **Magatartás**:
+  - Tegeződés, előadás közben bátran kérdezzünk!
+  - Piros pont jár az órai kérdésekért, valamint a jegyzetekben/videókban talált hibák jelzéséért.
+- **Oktató honlapja**: <https://math.bme.hu/~mogy/>
+- **Tárgy honlapja**: <https://math.bme.hu/~mogy/oktatas/VillamosMSc_Sztoch/VillamosMSc_Sztoch_2026osz.html>
 
-H épület 508
 
-Fogadó óra: Kedd 12-14
+## Követelmények és pontozás (Összesen: 120 pont)
+1. **Házi feladatok (Max. 15 pont)**
+   - **Megtekintés / beadás**: [VIK Moodle honlap](https://edu.vik.bme.hu)
+   - **Formátum**: Online kvízek (számszerű válaszokkal), akárhányszor próbálható.
+   - **Határidő és pótlás**: Szabadon pótolható a pótlási hét végéig (2026-12-18).
+   - **Értékelés**: A feladatok összpontszáma (max. 45 pont) **elosztva 3-mal** $\rightarrow$ max. 15 pont a végső jegybe.
+   - *Megjegyzés*: A ZH-n és a vizsgán a feladatok legalább 20%-a a házi feladatokból származik!
 
-Tanár kérte hogy **tegeződjünk** és bátran kérdezzünk előadás közben!
+2. **Zárthelyi dolgozat (Max. 45 pont)**
+   - **1 db ZH** a félév közepe táján (valamint pótZH és pótpótZH).
 
-Piros pontokat oszt a tanár ha kérdezünk
-
-Tanár Honlapja: <https://math.bme.hu/~mogy/>
-
-Tárgy Honlapja: <https://math.bme.hu/~mogy/oktatas/VillamosMSc_Sztoch/VillamosMSc_Sztoch_2026osz.html>
-
-
-Követelmények:
-- 2db ZH (Házi feladat kérdések lesznek)
-- Online házi feladatok moddleban (kicsi lesz a házi feladat súlya AI miatt)
-- Vizsga
-
-Cheat sheet hozható - csak a hivatalos hozható
-
----
-
-# Jelölés
-
-A tanár így szokta jelülni az ÉS jelet a halmazok között:
-
-$$
-A\ és \ B=A \wedge B = A \cap B = A \cdot B = AB
-$$
+3.  **Vizsga (Max. 60 pont)**
+    - Írásbeli vizsga a vizsgaidőszakban.
 
 ---
 
+**Aláírás feltétele**:
+- HF pontszám 40% (min. **6 pont**) **ÉS**
+- ZH pontszám 40% (min. **18 pont**).
 
-# 1. Előadás - (2026.09.08)
+**Sikeres vizsga feltétele**:
+- Vizsgapontszám 40% (min.
+**24 pont**).
 
-# 1.2. Előadás - (2026.09.09)
+**Érdemjegyek (Összpontszám alapján)**:
+- **0–47 pont:** elégtelen (1)
+- **48–67 pont:** elégséges (2)
+- **68–87 pont:** közepes (3)
+- **88–103 pont:** jó (4)
+- **104–120 pont:** jeles (5)
+
+**Megengedett segédeszközök**:
+- Kizárólag a honlapon közzétett **hivatalos képletgyűjtemények**, eloszlás-táblázatok, valamint **zsebszámológép**.
+
+---
+# Jelölésjegyzék
+
+A tanár így szokta jelölni az ÉS jelet a halmazok között:
+
+$$
+A \ \text{és} \ B = A \wedge B = A \cap B = A \cdot B = AB
+$$
+
+---
+
+# 1. hét előadás - Val. szám alapok: valószínűség, függetlenség, várható érték, szórás
 
 Szórás definició
 $$
