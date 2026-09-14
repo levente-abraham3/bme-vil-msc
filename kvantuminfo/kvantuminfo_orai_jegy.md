@@ -111,6 +111,12 @@ Tenzor szorzás
 
 SZámolás
 
+# 3 Előadás
+
+CNOT Control not
+
+Hogyan lehet másoló gépet megvalósítani?
+
 ## Kérdések:
 Mi az a hullám operátor
 
